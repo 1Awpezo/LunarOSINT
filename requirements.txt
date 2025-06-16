@@ -1,0 +1,8 @@
+requests
+phonenumbers
+discord.py
+python-dotenv
+bitcoinaddress
+macaddress
+luhn
+dnspython

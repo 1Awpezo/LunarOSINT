@@ -12,5 +12,5 @@ https://aviationstack.com
 
 if u have any problems with the tool feel free to DM me on telegram or discord!
 
-Telegram: https://t.me/awpez
+Telegram: https://t.me/tookuropsec
 Discord: g.hu
